@@ -1,0 +1,93 @@
+https://betterprogramming.pub/vs-code-shortcuts-to-code-like-youre-playing-a-piano-e5db7b272d1
+I’ll be honest, being fast while programming is half the reason I even code anymore (Jk. Unless...). Anyway, I’ve found the thing that made me become a lot quicker was divorcing my hand from the mouse. Think about it, every time you have to move the mouse, you have to do these things:
+
+Move your hand from the keyboard to the mouse (ouch, my shoulders)
+Find where that dagnabbin’ cursor went to
+Physically move the cursor to where you need and click
+Move your hand back to the keyboard (again, ouch, my shoulders)
+Here are my top shortcuts that will make you feel like you’re playing the piano while you’re coding:
+
+Multiple Cursors
+Quickly create multiple cursors to change multiple sections of code
+
+What’s the quickest way to increase your code output? Simple! Add more cursors!! Now you can write infinitely more code in the same time! More code = more better!
+
+Linux: Ctrl + Shift + Arrow Up / Arrow Down
+Windows: Ctrl + Alt + Arrow Up / Arrow Down
+Mac: Cmd + Opt + Arrow Up / Arrow Down
+Shortcut for creating multiple cursors (ctrl + shift + arrows for linux, ctrl + alt + arrows for windows, cmd + opt + arrows for mac)
+
+Creating multiple cursors
+Select Next
+Select the next occurrence of whatever you have currently selected
+
+You want to change that one string in multiple places, and you knew you should’ve set it as a variable somewhere and reused it, but here we are anyway. Do you use an overkill find and replace or put your hand on the forbidden device known as the mouse? Blasphemy!
+
+Linux / Windows: Ctrl + D
+Mac: Cmd + D
+
+
+Using select-next to select multiple occurrences — Field Name Example
+
+Using select-next to select multiple occurrences — String Example
+Undo Select Next
+Rollback the last select-next by one step
+
+You have discovered the power of select next, but perhaps too early. If you see yourself going mad with power and next-selecting things you shouldn’t have, this one is for you!
+
+Linux / Windows: Ctrl + U
+Mac: Cmd + U
+
+
+Using undo select-next to rollback one select
+Scroll the Screen Without Moving the Cursor
+Keep your cursor in place while scrolling up and down in your code
+
+Sometimes you want to hide the crappy code you wrote above so you can focus on a brighter future. “I will refactor it later,” you say. A lie. but you already knew that. So, why face the facts when you can scroll, scroll, scroll your shame away?
+
+Linux / Windows: Ctrl + Up Arrow / Down Arrow
+Mac: Ctrl + Fn + Up Arrow / Down Arrow
+
+
+Scrolling screen without moving cursor
+Jump Word
+Move your cursor one word at a time instead of one char at a time
+
+Your days of holding the right or left arrows for what feels like an eternity are over. One click, one word. Elegant.
+
+Linux / Windows: Ctrl + Left Arrow / Right Arrow
+Mac: Opt + Left Arrow / Right Arrow
+
+
+Moving the cursor one word at a time
+Select Word
+Jump one word and select it at the same time
+
+Maybe that word has done you something wrong. Who knows. Regardless, you can show it who’s boss by selecting it in one go and nuking it to oblivion (or whatever your mastermind has in plan).
+
+Linux / Windows: Ctrl + Shift + Left Arrow / Right Arrow
+Mac: Opt + Shift + Left Arrow / Right Arrow
+
+
+Selecting entire words at a time
+Jump to End or Beginning
+Instantly go to the beginning or end of code on your current line
+
+You wake up in the morning, turn your workstation on, and open your code editor. You find your cursor at the end of a line, but you need it at the beginning. *Sigh,* you say to yourself, “Guess I’ll get some things done while that’s happening.”
+
+You place a rock on your left arrow and go on with your day. You shower, grab a cup of coffee, decide for two hours what music playlist you’re listening to for the day, go through ten meaningless corporate meetings, and then return to your code editor.
+
+You remove the rock off your left arrow, and to your rejoice, you have finally reached the beginning of the line. Save yourself an eternity by using this shortcut.
+
+Linux / Windows: End / Home
+Mac: Cmd + Left Arrow / Right Arrow
+
+
+Moving to beginning or end of line
+Select Till End or Beginning
+Instantly select all code until the beginning or end of your current line
+
+People throughout history have done much with power they’ve accumulated over their lives. Genghis Khan, Attila the Hun, Spider Man, etc. These people have used their power in various destructive ways. None of it compares to what this shortcut allows you to do. Use it wisely.
+
+Linux / Windows: Shift + End / Home
+Mac: Cmd + Shift + Left Arrow / Right Arrow
